@@ -1,7 +1,7 @@
 {
-  "name": "react-native-opus-decode",
+  "name": "@kj800x/react-native-opus-decode",
   "version": "0.22.1",
-  "homepage": "https://github.com/wix-incubator/react-native-opus-decode",
+  "homepage": "https://github.com/kj800x/react-native-opus-decode",
   "description": "Opus Decode",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,7 +36,7 @@
     "react-native",
     "ios"
   ],
-  "repository": "https://github.com/wix-incubator/react-native-opus-decode",
+  "repository": "https://github.com/kj800x/react-native-opus-decode",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

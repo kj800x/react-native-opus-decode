@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = package["homepage"]
   s.license      = package["license"]
   s.platforms    = { :ios => "10.0" }
-  s.source       = { :git => "https://github.com/wix-incubator/react-native-opus-decode.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/kj800x/react-native-opus-decode.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,c}"
 

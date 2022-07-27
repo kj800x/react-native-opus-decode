@@ -2,18 +2,16 @@
 
 Opus decoder for react-native (only iOS is currently supported).
 
-[![Build status](https://badge.buildkite.com/e5b628b7d27b2d42354812f524ddcb7786816f8805d383a86e.svg)](https://buildkite.com/wix-mobile-oss/react-native-opus-decode)
-
 ## Installation
 
 ```sh
-npm install react-native-opus-decode
+npm install @kj800x/react-native-opus-decode
 ```
 
 ## Usage
 
 ```js
-import { decodeOpus } from 'react-native-opus-decode';
+import { decodeOpus } from '@kj800x/react-native-opus-decode';
 
 // ...
 
