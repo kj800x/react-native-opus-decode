@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.source_files = "ios/**/*.{h,m,mm,c}"
 
   s.dependency "React-Core"
-  s.vendored_frameworks = 'ios/Ogg.framework'
+  s.vendored_frameworks = 'ios/Ogg.xcframework'
   s.vendored_libraries = 'ios/opus/lib/libopus.a'
 end
